@@ -78,7 +78,7 @@ Power BI's built-in forecasting feature was used to:
 
 Add your dashboard screenshot here.
 
-![Dashboard Preview](Screenshot 2026-05-31 202212.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
