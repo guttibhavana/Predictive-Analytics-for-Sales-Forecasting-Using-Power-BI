@@ -73,18 +73,6 @@ Power BI's built-in forecasting feature was used to:
 
 ---
 
-## 📂 Project Files
-
-```text
-📁 Historical-Sales-Forecasting
-│
-├── Sales_Forecasting.pbix
-├── Dataset.xlsx
-├── Dashboard_Screenshot.png
-└── README.md
-```
-
----
 
 ## 📷 Dashboard Preview
 
